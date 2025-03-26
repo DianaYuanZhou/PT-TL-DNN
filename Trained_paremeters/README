@@ -1,0 +1,1 @@
+The 'Trained_parameters' folder includes all the DNN or TL-DNN model weights and bias trained on the training set after Smooth Group Lasso (SGL) regularization parameter is determined.
